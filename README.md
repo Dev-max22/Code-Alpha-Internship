@@ -64,14 +64,5 @@ How to Run
 
 
 ---
-
-Conclusion
-
 All tasks were completed successfully, demonstrating practical Python skills, problem-solving ability, and automation knowledge.
 
-
----
-
-If you want, I can also make a version with nice formatting and emojis to make it look extra professional and readable for GitHub — it’ll grab attention but stay simple.
-
-Do you want me to do that?
